@@ -1,6 +1,6 @@
 ### Thanks for stopping by
 
-My name is Chad Sterling and I work at Github. In my professional and personal life, I like to wear many hats 🎩:
+My name is Chad Sterling and I work at Github. I like to wear many hats 🎩 in my professional and personal life:
 
 - writing
 - teaching
